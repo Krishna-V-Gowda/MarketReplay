@@ -1,0 +1,6 @@
+/build/
+/evidence/generated/
+/evidence/verification/
+__pycache__/
+*.pyc
+.DS_Store

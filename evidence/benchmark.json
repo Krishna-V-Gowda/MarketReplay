@@ -1,0 +1,58 @@
+{
+  "cpp_median_events_per_second": 4010991.2068918627,
+  "cpp_median_seconds": 0.12465746600014427,
+  "cpp_seconds": [
+    0.12536654399991676,
+    0.12617842300005577,
+    0.12465746600014427,
+    0.1644812950000869,
+    0.1094320649999645,
+    0.1132054289998905,
+    0.10363651800003026
+  ],
+  "environment": {
+    "compiler": "c++ (Debian 14.2.0-19) 14.2.0",
+    "machine": "x86_64",
+    "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+    "python": "3.13.5"
+  },
+  "fingerprint": "751f70753dce87db",
+  "limitations": [
+    "Single machine and synthetic workload.",
+    "Includes process startup and file I/O.",
+    "Does not represent exchange certification, live feed handling, or universal throughput."
+  ],
+  "median_speedup": 14.264224992331554,
+  "method": {
+    "cpp_repetitions": 7,
+    "cpp_warmups": 2,
+    "python_repetitions": 3,
+    "python_warmups": 1,
+    "state_identity": "exact canonical JSON",
+    "timer": "time.perf_counter wall clock"
+  },
+  "python_median_events_per_second": 281192.368253317,
+  "python_median_seconds": 1.7781421419999788,
+  "python_seconds": [
+    1.7781421419999788,
+    1.7674709499999608,
+    1.8724728480001431
+  ],
+  "schema_version": 1,
+  "workload": {
+    "bytes": 15474861,
+    "events": 500000,
+    "message_counts": {
+      "A": 76643,
+      "C": 17568,
+      "D": 71080,
+      "E": 127831,
+      "F": 6765,
+      "S": 1,
+      "U": 74733,
+      "X": 125379
+    },
+    "seed": 20260903,
+    "sha256": "f180927301413d769849f20cc7aca9ea9032e152f6a92770f7e3c1886871f21f"
+  }
+}
