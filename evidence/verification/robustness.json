@@ -1,0 +1,648 @@
+{
+  "accepted": 9,
+  "mutations": 128,
+  "records": [
+    {
+      "mode": 0,
+      "mutation": 0,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 1,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 2,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 3,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 4,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 5,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 6,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 7,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 8,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 9,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 10,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 11,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 12,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 13,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 14,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 15,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 16,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 17,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 18,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 19,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 20,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 21,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 22,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 23,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 24,
+      "returncode": 0
+    },
+    {
+      "mode": 1,
+      "mutation": 25,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 26,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 27,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 28,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 29,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 30,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 31,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 32,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 33,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 34,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 35,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 36,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 37,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 38,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 39,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 40,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 41,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 42,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 43,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 44,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 45,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 46,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 47,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 48,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 49,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 50,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 51,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 52,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 53,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 54,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 55,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 56,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 57,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 58,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 59,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 60,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 61,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 62,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 63,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 64,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 65,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 66,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 67,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 68,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 69,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 70,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 71,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 72,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 73,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 74,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 75,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 76,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 77,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 78,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 79,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 80,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 81,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 82,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 83,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 84,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 85,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 86,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 87,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 88,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 89,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 90,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 91,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 92,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 93,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 94,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 95,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 96,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 97,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 98,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 99,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 100,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 101,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 102,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 103,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 104,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 105,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 106,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 107,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 108,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 109,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 110,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 111,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 112,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 113,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 114,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 115,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 116,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 117,
+      "returncode": 0
+    },
+    {
+      "mode": 2,
+      "mutation": 118,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 119,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 120,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 121,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 122,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 123,
+      "returncode": 3
+    },
+    {
+      "mode": 0,
+      "mutation": 124,
+      "returncode": 3
+    },
+    {
+      "mode": 1,
+      "mutation": 125,
+      "returncode": 3
+    },
+    {
+      "mode": 2,
+      "mutation": 126,
+      "returncode": 3
+    },
+    {
+      "mode": 3,
+      "mutation": 127,
+      "returncode": 3
+    }
+  ],
+  "rejected": 119,
+  "status": "pass"
+}
