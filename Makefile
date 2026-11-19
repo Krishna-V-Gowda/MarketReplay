@@ -18,6 +18,7 @@ verify:
 benchmark: build
 	python3 scripts/benchmark.py --binary $(BUILD_DIR)/marketreplay --events 500000 --output evidence/benchmark.json --markdown evidence/BENCHMARK.md
 
+sanitize: export PYTHONDONTWRITEBYTECODE=1
 sanitize:
 	cmake -S . -B build-sanitize -DCMAKE_BUILD_TYPE=Debug -DMARKETREPLAY_ENABLE_SANITIZERS=ON
 	cmake --build build-sanitize --parallel
