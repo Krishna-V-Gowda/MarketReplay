@@ -12,8 +12,10 @@ target_include_directories(marketreplay_lib PUBLIC include)
 target_compile_options(marketreplay_lib PRIVATE -Wall -Wextra -Wpedantic -Werror)
 
 if(MARKETREPLAY_ENABLE_SANITIZERS AND CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
-  target_compile_options(marketreplay_lib PRIVATE -fsanitize=address,undefined -fno-omit-frame-pointer)
-  target_link_options(marketreplay_lib PRIVATE -fsanitize=address,undefined)
+  # PUBLIC so every executable that links the library is also instrumented and linked
+  # against the sanitizer runtimes; PRIVATE options on a static library never reach them.
+  target_compile_options(marketreplay_lib PUBLIC -fsanitize=address,undefined -fno-sanitize-recover=all -fno-omit-frame-pointer)
+  target_link_options(marketreplay_lib PUBLIC -fsanitize=address,undefined)
 endif()
 
 add_executable(marketreplay src/main.cpp)
