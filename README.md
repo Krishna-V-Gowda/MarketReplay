@@ -8,6 +8,8 @@
 
 MarketReplay is a C++20 replay engine for a deliberately bounded subset of Nasdaq TotalView-ITCH 5.0. It parses length-prefixed binary messages, applies atomic order-state transitions, reconstructs price levels, checks invariants during replay, and emits a canonical state that must agree exactly with a separately implemented Python oracle.
 
+> **See it run live:** your browser replays 700 messages from this repository's test fixture, checks an invariant after every one, and draws the order book as a 3D landscape. [Open the live proof](https://krishna-v-gowda.github.io/systems/marketreplay.html). Part of [Krishna V. Gowda's portfolio](https://krishna-v-gowda.github.io/).
+
 > Scope is part of the design: this is not a trading strategy, a live feed handler, an exchange-certified decoder, or a claim of complete ITCH coverage.
 
 ## Why this exists
